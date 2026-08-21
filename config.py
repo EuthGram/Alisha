@@ -29,7 +29,7 @@ OWNER = 8212067566
 LOGGER_GROUP_ID = -1003913785429 # Bot Events Logs
 
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "EuthGram")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "EuthGram")
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "EuthgramChat")
 
 
 STICKER = [
