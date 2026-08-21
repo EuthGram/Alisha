@@ -18,12 +18,12 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "24168862"
+      "value": "39792511"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "916a9424dd1e58ab7955001ccc0172b3"
+      "value": "45c445ee134ca8645e7f34ba795849df"
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather.",
@@ -33,12 +33,12 @@
     "MONGO_URL": {
       "description": "MongoDB connection URL from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://euthledemo:euthle.pass@cluster0.k5jdjvi.mongodb.net/?appName=Cluster0"
     },
     "AUTH_CHANNEL": {
       "description": "The Telegram channel ID for Fsub authentication.",
       "required": true,
-      "value": ""
+      "value": "-1003897378101"
     },
     "FSUB": {
       "description": "Enable forced subscription (true/false) & Promote Bot Admin On Fsub Channel",
@@ -48,7 +48,7 @@
     "OWNER_ID": {
       "description": "User ID of the bot owner.",
       "required": true,
-      "value": ""
+      "value": "8212067566"
     }
   }
 }
